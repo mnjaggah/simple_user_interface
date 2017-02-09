@@ -1,0 +1,17 @@
+h2 {
+   	color: red;
+    text-align: center;
+}
+p {
+    color: red;
+    
+}
+
+body {
+   
+  background: linear-gradient(black, white);
+}
+
+form {
+  border: 5px solid #f1f1f1;
+}
